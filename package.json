@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "exports": "./index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "lowdb": "^3.0.0"
+  }
+}
